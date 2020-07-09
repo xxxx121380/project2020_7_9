@@ -1,3 +1,2 @@
 # someprojects
-一些课设和实验的代码code with experiments and projects
-都是相关课程的实验或者课设的代码，用C++或者C#实现
+编译原理课程设计，实现了一个类pascal语言的编译程序，从词法分析到汇编语言全过程
